@@ -20,4 +20,6 @@
 
   ![](./img/key_auth.png)
 
+  - copy the key and paste it in the .env file as an env var
+
 4. run the `main.py` script in this github
