@@ -14,10 +14,10 @@
 
   -  retrieve this key from your Azure OpenAI studio when deploying a model
   
-    ![](./img/openai_studio.png)
+  ![](./img/openai_studio.png)
 
-    ![](./img/sample_code.png)
+  ![](./img/sample_code.png)
 
-    ![](./img/key_auth.png)
+  ![](./img/key_auth.png)
 
 4. run the `main.py` script in this github
